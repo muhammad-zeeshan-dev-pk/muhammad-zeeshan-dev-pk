@@ -184,8 +184,8 @@ const zeeshan = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-mzstudiospk.vercel.app/api?username=mzstudiospk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=F39C12&text_color=FFFFFF&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats-mzstudiospk.vercel.app/api/top-langs/?username=mzstudiospk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86DE&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats-mzstudiospk.vercel.app/api?username=mzstudiospk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=F39C12&text_color=FFFFFF&rank_icon=github&v=2"/>
+<img height="180em" src="https://github-readme-stats-mzstudiospk.vercel.app/api/top-langs/?username=mzstudiospk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86DE&text_color=FFFFFF&v=2"/>
 
 <br/>
 
