@@ -10,9 +10,9 @@
 
 <!-- ===== PROFILE BADGES ROW ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mzstudiospk&label=Profile%20Views&color=2e86de&style=for-the-badge" alt="Profile views" />
-  <a href="https://github.com/mzstudiospk?tab=followers">
-    <img src="https://img.shields.io/github/followers/mzstudiospk?label=Followers&style=for-the-badge&color=f39c12&labelColor=1e3a5f" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=muhammad-zeeshan-dev-pk&label=Profile%20Views&color=2e86de&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/muhammad-zeeshan-dev-pk?tab=followers">
+    <img src="https://img.shields.io/github/followers/muhammad-zeeshan-dev-pk?label=Followers&style=for-the-badge&color=f39c12&labelColor=1e3a5f" alt="Followers" />
   </a>
   <a href="https://muhammad-zeeshan-dev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Live-2E86DE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -94,7 +94,7 @@ const zeeshan = {
 <a href="https://postpilot-io.vercel.app">
   <img src="https://img.shields.io/badge/🚀_PostPilot-Try_it_Live-F39C12?style=for-the-badge&labelColor=1e3a5f" alt="PostPilot Live" />
 </a>
-<a href="https://github.com/mzstudiospk/PostPilot-showcase">
+<a href="https://github.com/muhammad-zeeshan-dev-pk/PostPilot-showcase">
   <img src="https://img.shields.io/badge/📂_View_Showcase-Repo-2E86DE?style=for-the-badge&logo=github&logoColor=white" alt="PostPilot Repo" />
 </a>
 
@@ -184,12 +184,12 @@ const zeeshan = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-mzstudiospk.vercel.app/api?username=mzstudiospk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=F39C12&text_color=FFFFFF&rank_icon=github&v=2"/>
-<img height="180em" src="https://github-readme-stats-mzstudiospk.vercel.app/api/top-langs/?username=mzstudiospk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86DE&text_color=FFFFFF&v=2"/>
+<img height="180em" src="https://github-readme-stats-mzstudiospk.vercel.app/api?username=muhammad-zeeshan-dev-pk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86DE&icon_color=F39C12&text_color=FFFFFF&rank_icon=github&v=2"/>
+<img height="180em" src="https://github-readme-stats-mzstudiospk.vercel.app/api/top-langs/?username=muhammad-zeeshan-dev-pk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86DE&text_color=FFFFFF&v=2"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mzstudiospk&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E86DE&ring=F39C12&fire=F39C12&currStreakLabel=2E86DE" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-zeeshan-dev-pk&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E86DE&ring=F39C12&fire=F39C12&currStreakLabel=2E86DE" alt="GitHub Streak" />
 
 </div>
 
@@ -292,9 +292,9 @@ I run **[MZ Studios](https://facebook.com/MZStudiosPK)** — a premium mobile, w
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mzstudiospk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E86DE&line=F39C12&point=FFFFFF&area=true&area_color=2E86DE" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-zeeshan-dev-pk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E86DE&line=F39C12&point=FFFFFF&area=true&area_color=2E86DE" alt="Contribution Graph" />
 
-![Snake animation](https://raw.githubusercontent.com/mzstudiospk/mzstudiospk/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/muhammad-zeeshan-dev-pk/muhammad-zeeshan-dev-pk/output/github-snake-dark.svg)
 
 </div>
 
@@ -337,7 +337,7 @@ I run **[MZ Studios](https://facebook.com/MZStudiosPK)** — a premium mobile, w
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=30&animation=twinkling" />
 
-**Built with ❤️ by [Muhammad Zeeshan](https://github.com/mzstudiospk)**
+**Built with ❤️ by [Muhammad Zeeshan](https://github.com/muhammad-zeeshan-dev-pk)**
 
 *Senior React Native Developer | Full-Stack & SaaS | Founder @ MZ Studios | Proudly Coding from Pakistan 🇵🇰*
 
